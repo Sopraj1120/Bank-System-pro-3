@@ -1,0 +1,21 @@
+X:\C# work\project-03\project 03\bin\Debug\project 03.exe.config
+X:\C# work\project-03\project 03\bin\Debug\project 03.exe
+X:\C# work\project-03\project 03\bin\Debug\project 03.pdb
+X:\C# work\project-03\project 03\obj\Debug\project 03.csproj.AssemblyReference.cache
+X:\C# work\project-03\project 03\obj\Debug\project 03.csproj.CoreCompileInputs.cache
+X:\C# work\project-03\project 03\obj\Debug\project 03.exe
+X:\C# work\project-03\project 03\obj\Debug\project 03.pdb
+C:\Users\marif\Source\Repos\Sopraj1120\Banksystem\Banksystem\project 03\bin\Debug\project 03.exe.config
+C:\Users\marif\Source\Repos\Sopraj1120\Banksystem\Banksystem\project 03\bin\Debug\project 03.exe
+C:\Users\marif\Source\Repos\Sopraj1120\Banksystem\Banksystem\project 03\bin\Debug\project 03.pdb
+C:\Users\marif\Source\Repos\Sopraj1120\Banksystem\Banksystem\project 03\obj\Debug\project 03.csproj.AssemblyReference.cache
+C:\Users\marif\Source\Repos\Sopraj1120\Banksystem\Banksystem\project 03\obj\Debug\project 03.csproj.CoreCompileInputs.cache
+C:\Users\marif\Source\Repos\Sopraj1120\Banksystem\Banksystem\project 03\obj\Debug\project 03.exe
+C:\Users\marif\Source\Repos\Sopraj1120\Banksystem\Banksystem\project 03\obj\Debug\project 03.pdb
+C:\Users\marif\OneDrive\Desktop\Sopraj\C#\Banksystem\Banksystem\project 03\bin\Debug\project 03.exe.config
+C:\Users\marif\OneDrive\Desktop\Sopraj\C#\Banksystem\Banksystem\project 03\bin\Debug\project 03.exe
+C:\Users\marif\OneDrive\Desktop\Sopraj\C#\Banksystem\Banksystem\project 03\bin\Debug\project 03.pdb
+C:\Users\marif\OneDrive\Desktop\Sopraj\C#\Banksystem\Banksystem\project 03\obj\Debug\project 03.csproj.AssemblyReference.cache
+C:\Users\marif\OneDrive\Desktop\Sopraj\C#\Banksystem\Banksystem\project 03\obj\Debug\project 03.csproj.CoreCompileInputs.cache
+C:\Users\marif\OneDrive\Desktop\Sopraj\C#\Banksystem\Banksystem\project 03\obj\Debug\project 03.exe
+C:\Users\marif\OneDrive\Desktop\Sopraj\C#\Banksystem\Banksystem\project 03\obj\Debug\project 03.pdb
